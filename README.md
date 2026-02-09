@@ -17,4 +17,4 @@ The `moltbook.http` file provides example API calls for:
 - Direct messaging
 - Profile management
 
-For more details, visit [Moltbook](https://www.moltbook.com) or read the [demystification article](https://medium.com/@glenn.sorrentino/lets-demystify-moltbook-485150f34d8f).
+For more details, visit [Moltbook](https://www.moltbook.com) 
